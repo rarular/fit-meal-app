@@ -11,7 +11,10 @@ export const viewport: Viewport = { width: "device-width", initialScale: 1 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <div className="page">{children}</div>
+        <footer className="footer">© 2026 FitMeal. Built with Claude Code.</footer>
+      </body>
     </html>
   );
 }
