@@ -1,0 +1,41 @@
+name,type,diet,calories,protein,carbs,fat,ingredients
+Oatmeal with banana and peanut butter,breakfast,vegan,464,14,75,12,rolled oats:60 g;bananas:1 pcs;peanut butter:15 g;soy milk:250 ml
+Tofu scramble on toast,breakfast,vegan,404,24,32,20,tofu:150 g;whole grain bread:2 slices;spinach:50 g;olive oil:1 tbsp
+Chia pudding with berries,breakfast,vegan,338,13,40,14,chia seeds:30 g;soy milk:250 ml;mixed berries:100 g;maple syrup:1 tbsp
+Peanut butter banana smoothie,breakfast,vegan,434,32,45,14,plant protein powder:30 g;peanut butter:15 g;soy milk:300 ml;bananas:1 pcs
+Greek yogurt with granola and honey,breakfast,vegetarian,377,22,52,9,greek yogurt:200 g;granola:40 g;honey:1 tbsp;blueberries:80 g
+Veggie omelette with toast,breakfast,vegetarian,432,26,28,24,eggs:3 pcs;bell peppers:1 pcs;whole grain bread:2 slices;olive oil:1 tbsp
+Cottage cheese with apple and walnuts,breakfast,vegetarian,342,26,28,14,cottage cheese:200 g;apples:1 pcs;walnuts:20 g
+Scrambled eggs with bacon and toast,breakfast,omnivore,494,30,26,30,eggs:3 pcs;bacon:40 g;whole grain bread:2 slices
+Turkey and egg breakfast wrap,breakfast,omnivore,452,38,30,20,whole wheat tortillas:1 pcs;eggs:2 pcs;turkey slices:60 g;spinach:30 g
+Smoked salmon bagel,breakfast,omnivore,448,28,48,16,bagels:1 pcs;smoked salmon:60 g;cream cheese:30 g
+Chickpea quinoa bowl,lunch,vegan,598,24,85,18,quinoa:70 g;chickpeas:150 g;cucumbers:1 pcs;tomatoes:2 pcs;olive oil:1 tbsp
+Lentil vegetable soup with bread,lunch,vegan,572,28,88,12,red lentils:100 g;carrots:2 pcs;onions:1 pcs;whole grain bread:2 slices;olive oil:1 tbsp
+Tofu stir-fry with rice,lunch,vegan,598,30,70,22,tofu:180 g;brown rice:70 g;broccoli:150 g;soy sauce:1 tbsp;sesame oil:1 tbsp
+Black bean burrito bowl,lunch,vegan,628,22,90,20,black beans:150 g;brown rice:70 g;sweetcorn:80 g;avocados:1 pcs;tomatoes:1 pcs
+Caprese pasta salad,lunch,vegetarian,626,28,70,26,whole wheat pasta:80 g;mozzarella:80 g;tomatoes:2 pcs;olive oil:1 tbsp
+Egg and avocado sandwich,lunch,vegetarian,494,22,34,30,whole grain bread:2 slices;eggs:2 pcs;avocados:1 pcs;tomatoes:1 pcs
+Halloumi veggie wrap,lunch,vegetarian,566,26,48,30,whole wheat tortillas:1 pcs;halloumi:80 g;bell peppers:1 pcs;hummus:40 g
+Grilled chicken rice bowl,lunch,omnivore,616,50,68,16,chicken breast:180 g;brown rice:80 g;broccoli:150 g;olive oil:1 tbsp
+Tuna pasta salad,lunch,omnivore,584,42,68,16,canned tuna:120 g;whole wheat pasta:80 g;tomatoes:2 pcs;olive oil:1 tbsp
+Turkey avocado wrap,lunch,omnivore,530,38,36,26,whole wheat tortillas:1 pcs;turkey slices:100 g;avocados:1 pcs;spinach:30 g
+Chickpea and sweet potato curry,dinner,vegan,660,20,100,20,chickpeas:150 g;sweet potatoes:2 pcs;coconut milk:100 ml;basmati rice:70 g
+Lentil bolognese with pasta,dinner,vegan,600,32,100,8,green lentils:100 g;whole wheat pasta:80 g;tomato passata:200 g;onions:1 pcs;carrots:1 pcs
+Tempeh vegetable stir-fry with noodles,dinner,vegan,604,38,68,20,tempeh:150 g;rice noodles:80 g;bell peppers:1 pcs;broccoli:100 g;soy sauce:1 tbsp
+Quinoa stuffed bell peppers,dinner,vegan,550,24,82,14,bell peppers:2 pcs;quinoa:70 g;black beans:100 g;olive oil:1 tbsp
+Vegetable lasagna,dinner,vegetarian,666,32,76,26,lasagna sheets:90 g;ricotta:100 g;tomato passata:200 g;zucchinis:1 pcs;spinach:80 g
+Paneer tikka masala with rice,dinner,vegetarian,712,36,70,32,paneer:150 g;basmati rice:70 g;tomato passata:150 g;plain yogurt:50 g
+Mushroom risotto,dinner,vegetarian,598,18,82,22,arborio rice:90 g;mushrooms:150 g;parmesan:30 g;onions:1 pcs;olive oil:1 tbsp
+Baked salmon with potatoes,dinner,omnivore,680,46,52,32,salmon fillet:180 g;potatoes:250 g;broccoli:150 g;olive oil:1 tbsp
+Beef and vegetable stir-fry with rice,dinner,omnivore,630,46,62,22,beef strips:160 g;brown rice:80 g;bell peppers:1 pcs;broccoli:100 g;soy sauce:1 tbsp
+Chicken fajitas,dinner,omnivore,604,48,58,20,chicken breast:170 g;whole wheat tortillas:2 pcs;bell peppers:2 pcs;onions:1 pcs;olive oil:1 tbsp
+Apple with almond butter,snack,vegan,239,5,30,11,apples:1 pcs;almond butter:20 g
+Hummus with carrot sticks,snack,vegan,169,6,16,9,hummus:60 g;carrots:2 pcs
+Almond and raisin trail mix,snack,vegan,234,7,20,14,almonds:20 g;raisins:20 g;pumpkin seeds:10 g
+Banana with peanut butter,snack,vegan,212,5,30,8,bananas:1 pcs;peanut butter:15 g
+Berry protein shake,snack,vegan,238,26,20,6,plant protein powder:30 g;soy milk:250 ml;mixed berries:80 g
+Greek yogurt with honey and walnuts,snack,vegetarian,229,15,22,9,greek yogurt:150 g;honey:1 tbsp;walnuts:10 g
+Cheese and crackers,snack,vegetarian,294,10,32,14,cheddar:30 g;whole grain crackers:30 g;grapes:80 g
+Boiled eggs with cherry tomatoes,snack,vegetarian,158,13,4,10,eggs:2 pcs;cherry tomatoes:80 g
+Turkey and cheese roll-ups,snack,omnivore,164,20,3,8,turkey slices:60 g;cheddar:20 g;cucumbers:1 pcs
+Tuna on rice cakes,snack,omnivore,276,20,22,12,canned tuna:80 g;rice cakes:3 pcs;mayonnaise:1 tbsp
